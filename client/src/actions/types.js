@@ -1,0 +1,14 @@
+export const GET_MENU_ITEMS = 'GET_MENU_ITEMS';
+export const ADD_MENU_ITEM = 'ADD_MENU_ITEMS';
+export const DELETE_MENU_ITEM = 'DELETE_MENU_ITEMS';
+export const MENU_ITEMS_LOADING = 'MENU_ITEMS_LOADING';
+export const USER_LOADING = 'USER_LOADING';
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const GET_ERRORS = 'GET_ERRORS';
+export const CLEAR_ERRORS = 'CLEAR_ERRORS';
